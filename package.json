@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/saqe/Site/issues"
   },
-  "homepage": "https://github.com/saqe/Site#readme"
+  "homepage": "https://github.com/saqe/Site#readme",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
 }
